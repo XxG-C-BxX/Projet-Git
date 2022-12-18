@@ -1,2 +1,2 @@
-# Projet-Git
-Sert à démonter que je suis capable de gérer un dépôt git
+
+Cette branche sert à déposer le projet word afin d e pouvoir faire des modifications avant de le fusionner à la branche principale
