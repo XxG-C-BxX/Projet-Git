@@ -1,4 +1,4 @@
 
-Cette branche sert à  déposer sur le projet word avant de le fusionner avec la branche principal
+Cette branche sert à  déposer  le projet word afin de faire des modifications avant de le fusionner à la branche principale
 
 
