@@ -1,2 +1,2 @@
 
-Cette branche sert à déposer le projet word afin d e pouvoir faire des modifications avant de le fusionner à la branche principale
+Cette branche sert à déposer le projet excel afin de pouvoir faire des modifications avant de le fusionner dans la brancge principale
